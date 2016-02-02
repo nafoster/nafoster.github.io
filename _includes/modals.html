@@ -1,0 +1,59 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ post.title }}</h2>
+                            <h3>{{ post.skills }}</h3>
+                            {% if post.status %}
+                                <p class="status"><em>Status: {{ post.status }}</em></p>
+                           {% endif %}
+                           {% if post.site %}
+                                <a href="{{ post.site }}" target="_blank" class="btn btn-lg btn-outline site"><i class="fa fa-desktop"></i> View Site</a>
+                           {% endif %}
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            
+                            
+                            {% if post.goal %}
+                              <h4>Goal</h4>
+                              <p>{{ post.goal }}</p>
+                          {% endif %}
+      
+                          {% if post.research %}
+                              <h4>Research</h4>
+                              <p>{{ post.research }}</p>
+                          {% endif %}
+                          
+                          {% if post.branding %}
+                              <h4>Branding</h4>
+                              <p>{{ post.branding }}</p>
+                          {% endif %}
+                          
+                          {% if post.design %}
+                              <h4>Design</h4>
+                              <p>{{ post.design }}</p>
+                          {% endif %}
+                           
+                           {% if post.development %}
+                              <h4>Development</h4>
+                              <p>{{ post.development }}</p>
+                          {% endif %}
+                            
+
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: 1
+title: Division of Student Affairs <br>Interim Website Design
+skills: Development
+site: http://careerservices.syr.edu/
+date: 2016-02-01
+img: dsa.png
+alt: DSA Interim Design
+
+goal: "<p>In 2014, Syracuse Unversity began rethinking their branding and web standards in terms of how to portray the University in the modern world. With a focus on modernizing and meeting <a href='https://www.w3.org/WAI/WCAG20/quickref/' target='_blank'>WCAG 2.0 AA accessbility standards</a>, the University produced <a href='http://styleguide.syr.edu' target='_blank'>interim branding guidelines</a> for all divisions and departments to follow while they were working on the comprehesive guidelines.</p>
+
+<p>As the Web Specialist, in charge of all 26 departments in the Division of Student Affairs, my job was to take the branding guidelines and modify a pre-existing site design to fit our content management system, <a href='https://www.hannonhill.com/' target='_blank'>Cascade</a>. <strong>My main goals were to upgrade the layout of our departmental sites visually, make our sites WCAG 2.0 AA compliant to meet our accessibility standard, and implement features that would make it easy for our users to update their own sites.</strong></p>"
+
+development: "
+<h5>Layout</h5>
+<img src='../img/portfolio/dsa-layout.jpg' alt='DSA Layout difference'>
+<p class='small'>(Left: 2008 Layout, Right: Interim Design Layout)</p>
+<p>Student Affairs departmental sites had been using a layout from 2008 that was not updated at all during this timespan. Many students, staff, and faculty spoke of how cluttered and static our sites were. Within months of my start as the Web Specialist for the Division, I was able to use a pre-existing design from our regional sites and modified the layout to match our branding guidelines. The layout was modified to have a cleaner, minimalistic look, but with the ability to add more dynamic content. This layout was adapted into Cascade and distributed to our departments for usage.</p>
+<h5>Accessiblity</h5>
+<p>In 2014, a University-wide committee was created to address accessibility issues in our technology and web fronts. I was asked to participate in the sub-committee focused on web accessibility and helped in the acquistion/creation of tools to assist all departments and division in making their sites accessible.</p>
+<p>The knowledge and training I received in the sub-committee helped me modify the layout and code to allow for our sites to meet WCAG 2.0 AA compliance. This is a continual effort that allows to train and inform my departments about accessibility standards and how to accomodate for all types of disabilities on the web.</p>
+<h5>Back-End</h5>
+<p>After meeting with several departments and receiving feedback on Cascade, many of them expressed frustration and discussed how difficult it was to work with when updating their sites. Many departments have website managers that are not familiar with programming or design, so they felt like Cascade required too much of them to perform basic tasks such as adding a new page. One specific feedback mentioned that Cascade was difficult to use when embedding social media widgets nad profiles. Many of departments had social media accounts on Facebook, Twitter, Instagram, etc and wanted to embed them, but found it impossible to do so.</p>
+<p>Listening to their feedback, I decided to implement new features to make Cascade easier to work with. For instance, to address the social media issue, I created several widgets (known as modules in Cascade) where they could simply put in their username or page link, and it would generate the profile/feed widget itself. It requires no embed codes or anything like that on their part. I also was able to create an easy to use lightbox gallery and a slideshow module, which was highly requested by our departments. These features allows the departments to connect their student audience easier and showcase important information more effectively.</p>
+"
+---

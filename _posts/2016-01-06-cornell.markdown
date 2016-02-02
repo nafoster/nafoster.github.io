@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 2
+title: Cornell EL+R
+skills: Design
+site: http://www.elr.cornell.edu/
+date: 2016-01-01
+img: elr.png
+alt: Cornell ELR
+
+goal: "<p>During my internship at <a href='http://awpny.com' target='blank'>Ancient Wisdom Productions</a>, the Cornell Engaged Learning + Research Center came to us looking to redesign their current site as part of Cornell's effort to modernize their web presence.</p>"
+
+research: "<a href='../img/portfolio/elr-wireframe-1-big.jpg' title='Wireframe 1'><img src='../img/portfolio/elr-wireframe-1.jpg' alt='ELR Wireframe'></a> <a href='../img/portfolio/elr-wireframe-2-big.jpg' title='Wireframe 2'><img src='../img/portfolio/elr-wireframe-2.jpg' alt='ELR Wireframe'></a> <p>Before starting this project, I was briefed about EL+R's initiative to modernize their designs and come into the 21st century. The team was presented with specific branding guidelines from Cornell and EL+R which gave me several ideas on how to rework their website. They also came to us with their own wireframes to adapt onto their website. From there, I was able to create new wireframes with an unique iteration of their website</p>"
+
+design: "<a href='../img/portfolio/elr-design-1-big.jpg' title='Design 1'><img src='../img/portfolio/elr-design-1.jpg' alt='ELR Design'></a> <a href='../img/portfolio/elr-design-2-big.jpg' title='Design 2'><img src='../img/portfolio/elr-design-2.jpg' alt='ELR Design'></a> <p>Keeping in mind their needs and the branding guidelines from Cornell, I created a new layout that focused on beautiful, big images and organized content areas. Additionally, I distributed color to different parts of layout to focus on specific areas of content. My number one priority was to make this design unique, but still user-friendly for all types of viewers. Once the design mockups were finished, the new layout was presented and they were happy with their redesigned look.</p>"
+
+development: "<p>Front and back-end development by the <a href='http://awpny.com' target='blank'>AWP team</a>.
+</p>"
+---
