@@ -133,7 +133,7 @@ header .intro-text .skills {
 }
 
 .navbar a:hover {
-    color: white;
+    color: white !important;
 }
 
 .navbar .navbar-nav {
