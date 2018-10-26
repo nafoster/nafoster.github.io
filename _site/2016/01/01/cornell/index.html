@@ -116,12 +116,34 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/dsa.png" class="img-responsive" alt="DSA Interim Design">
+                            <img src="img/portfolio/vm.png" class="img-responsive" alt="Visitor Management System">
                         </a>
                     </div>
                 
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-2" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/sse.png" class="img-responsive" alt="Safer Sex Express">
+                        </a>
+                    </div>
+                
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#portfolioModal-3" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/dsa.png" class="img-responsive" alt="DSA Interim Design">
+                        </a>
+                    </div>
+                
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#portfolioModal-4" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -250,7 +272,102 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Division of Student Affairs <br>Interim Website Design</h2>
+                            <h2>Division of Enrollment and the Student Experience <br>Visitor Management System</h2>
+                            <h3>Design & Development</h3>
+                            
+                           
+                                <a href="https://students.syr.edu/vm" target="_blank" class="btn btn-lg btn-outline site"><i class="fa fa-desktop"></i> View Site</a>
+                           
+                            <img src="img/portfolio/vm.png" class="img-responsive img-centered" alt="Visitor Management System">
+                            
+                            
+                            
+                              <h4>Goal</h4>
+                              <p><p>As assessment is a vital part of each of our departments, they asked for an internal system to track and manage visitors coming into their offices. Visitors could range from students, to other staff members, and even community members.</p></p>
+                          
+      
+                          
+                              <h4>Research</h4>
+                              <p><p>As I was formulating the beginnings of this project, I sat down with several departments to discuss their needs and identify what information they needed from visitors. With most of importance centered around gathering student data, I decided the application would need to integrate with our LDAP database which hosts a variety of student information useful to our departments. For flexibility with LDAP and a need for customization, I moved forward with developing a PHP/MySQL web application.</p></p>
+                          
+                          
+                          
+                          
+                          
+                           
+                           
+                              <h4>Development</h4>
+                              <p> <h5>Visitor Screen</h5> <img src='../img/portfolio/vm1.png' alt='Visitor Management Check In Screen'> <p>Speed was the utmost priority when it came to checking in and checking out visitors from departmental offices. The system was developed a minimal interface that could be used on any device placed in the office. The process only requires a couple clicks and a swipe of a student's SUID if they choose to provide it. Afterwards, the backend functions run tasks such as emailing/texting the office staff member who the visitor is there for, pulling information from the LDAP database based on the visitor information and much more. These process are completely invisible to the visitor and do not interrupt how the system functions.</p> <h5>Administrative Screen</h5> <img src='../img/portfolio/vm2.png' alt='Visitor Management Configuration Screen'> <p>Using Active Directory authentication, staff members of each department can log into an administrative back-end designated to customize their office's instance of the system. The ability to add and remove staff members; generate custom reports; check visitors in for specific events; and more are available to staff members. Each of these configurations is stored in MySQL databases that connnect to the application for easy changes without affecting others.</p> </p>
+                          
+                            
+
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal-2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Safer Sex Express</h2>
+                            <h3>Development</h3>
+                            
+                           
+                                <a href="https://students.syr.edu/condom-program" target="_blank" class="btn btn-lg btn-outline site"><i class="fa fa-desktop"></i> View Site</a>
+                           
+                            <img src="img/portfolio/sse.png" class="img-responsive img-centered" alt="Safer Sex Express">
+                            
+                            
+                            
+                              <h4>Goal</h4>
+                              <p><p>The Office of Health Promotions asked for a web system that would allow students to order sexual health supplies for free in an easy, painless process.</p></p>
+                          
+      
+                          
+                          
+                          
+                          
+                          
+                           
+                           
+                              <h4>Development</h4>
+                              <p> <img src='../img/portfolio/sse1.png' alt='Safer Sex Express Order Form'> <p>As the design/branding was dictacted by the office, I quickly began working on the development of the application. Utilizing the student LDAP database, I developed the application using PHP and MySQL databases to store orders. The system allows for a student to login with their NetID username and password, which authenticates to the LDAP database and pulls in additional information the office requests. Then the student goes through the ordering process of the supplies they request and are taken to a follow-up answers page before their order is submitted. Once it is submitted, the order is stored in a MySQL database that the office can then use to generate packaging labels and more using Microsoft Access.</p> <img src='../img/portfolio/sse2.png' alt='Safer Sex Express Follow Up Questions Screen'> </p>
+                          
+                            
+
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal-3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Division of Enrollment and the Student Experience <br>Interim Website Design</h2>
                             <h3>Development</h3>
                             
                            
@@ -285,7 +402,7 @@
         </div>
     </div>
 
-    <div class="portfolio-modal modal fade" id="portfolioModal-2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal-4" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">

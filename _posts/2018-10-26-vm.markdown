@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 1
+title: Division of Enrollment and the Student Experience <br>Visitor Management System
+skills: Design & Development
+site: https://students.syr.edu/vm
+date: 2018-10-26
+img: vm.png
+alt: Visitor Management System
+
+goal: "<p>As assessment is a vital part of each of our departments, they asked for an internal system to track and manage visitors coming into their offices. Visitors could range from students, to other staff members, and even community members.</p>"
+
+research: "<p>As I was formulating the beginnings of this project, I sat down with several departments to discuss their needs and identify what information they needed from visitors. With most of importance centered around gathering student data, I decided the application would need to integrate with our LDAP database which hosts a variety of student information useful to our departments. For flexibility with LDAP and a need for customization, I moved forward with developing a PHP/MySQL web application.</p>"
+
+development: "
+<h5>Visitor Screen</h5>
+<img src='../img/portfolio/vm1.png' alt='Visitor Management Check In Screen'>
+<p>Speed was the utmost priority when it came to checking in and checking out visitors from departmental offices. The system was developed a minimal interface that could be used on any device placed in the office. The process only requires a couple clicks and a swipe of a student's SUID if they choose to provide it. Afterwards, the backend functions run tasks such as emailing/texting the office staff member who the visitor is there for, pulling information from the LDAP database based on the visitor information and much more. These process are completely invisible to the visitor and do not interrupt how the system functions.</p>
+<h5>Administrative Screen</h5>
+<img src='../img/portfolio/vm2.png' alt='Visitor Management Configuration Screen'>
+<p>Using Active Directory authentication, staff members of each department can log into an administrative back-end designated to customize their office's instance of the system. The ability to add and remove staff members; generate custom reports; check visitors in for specific events; and more are available to staff members. Each of these configurations is stored in MySQL databases that connnect to the application for easy changes without affecting others.</p>
+"
+---

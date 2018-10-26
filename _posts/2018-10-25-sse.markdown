@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 2
+title: Safer Sex Express
+skills: Development
+site: https://students.syr.edu/condom-program
+date: 2018-10-25
+img: sse.png
+alt: Safer Sex Express
+
+goal: "<p>The Office of Health Promotions asked for a web system that would allow students to order sexual health supplies for free in an easy, painless process.</p>"
+
+development: "
+<img src='../img/portfolio/sse1.png' alt='Safer Sex Express Order Form'>
+<p>As the design/branding was dictacted by the office, I quickly began working on the development of the application. Utilizing the student LDAP database, I developed the application using PHP and MySQL databases to store orders. The system allows for a student to login with their NetID username and password, which authenticates to the LDAP database and pulls in additional information the office requests. Then the student goes through the ordering process of the supplies they request and are taken to a follow-up answers page before their order is submitted. Once it is submitted, the order is stored in a MySQL database that the office can then use to generate packaging labels and more using Microsoft Access.</p>
+<img src='../img/portfolio/sse2.png' alt='Safer Sex Express Follow Up Questions Screen'>
+"
+---

@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 1
-title: Division of Student Affairs <br>Interim Website Design
+modal-id: 3
+title: Division of Enrollment and the Student Experience <br>Interim Website Design
 skills: Development
 site: http://careerservices.syr.edu/
 date: 2016-02-01
