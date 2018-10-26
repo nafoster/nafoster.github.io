@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Foster</title>
-    <description>I&#39;m a UI Designer and Front-End Developer who loves solving unique user problems. With my background in branding, design, and programming, I understand all aspects of creating a great user experience.</description>
-    <link>https://nicolefosterdesigns.com/</link>
+    <description>I&#39;m a Web Developer who loves solving unique user problems. With my background in branding, design, and programming, I understand all aspects of creating a great user experience.</description>
+    <link>https://nafoster.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Feb 2016 09:22:05 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 09:22:05 -0500</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2018 14:34:03 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 14:34:03 -0400</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
         <title>Division of Student Affairs &lt;br&gt;Interim Website Design</title>
         <description></description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>https://nicolefosterdesigns.com/2016/02/01/dsa/</link>
-        <guid isPermaLink="true">https://nicolefosterdesigns.com/2016/02/01/dsa/</guid>
+        <link>https://nafoster.github.io/2016/02/01/dsa/</link>
+        <guid isPermaLink="true">https://nafoster.github.io/2016/02/01/dsa/</guid>
         
         
       </item>
@@ -23,38 +23,8 @@
         <title>Cornell EL+R</title>
         <description></description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-        <link>https://nicolefosterdesigns.com/2016/01/01/cornell/</link>
-        <guid isPermaLink="true">https://nicolefosterdesigns.com/2016/01/01/cornell/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tora-Con Mobile</title>
-        <description></description>
-        <pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
-        <link>https://nicolefosterdesigns.com/2015/10/15/toracon/</link>
-        <guid isPermaLink="true">https://nicolefosterdesigns.com/2015/10/15/toracon/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Toei Channel</title>
-        <description></description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
-        <link>https://nicolefosterdesigns.com/2014/02/01/toeichannel/</link>
-        <guid isPermaLink="true">https://nicolefosterdesigns.com/2014/02/01/toeichannel/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Camillus Con</title>
-        <description></description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
-        <link>https://nicolefosterdesigns.com/2014/01/01/camcon/</link>
-        <guid isPermaLink="true">https://nicolefosterdesigns.com/2014/01/01/camcon/</guid>
+        <link>https://nafoster.github.io/2016/01/01/cornell/</link>
+        <guid isPermaLink="true">https://nafoster.github.io/2016/01/01/cornell/</guid>
         
         
       </item>

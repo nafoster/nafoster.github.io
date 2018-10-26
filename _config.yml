@@ -1,9 +1,9 @@
 # Site settings
 title: Nicole Foster
 email: nicolefdesigns@gmail.com
-url: https://nicolefosterdesigns.com
-description: "I'm a UI Designer and Front-End Developer who loves solving unique user problems. With my background in branding, design, and programming, I understand all aspects of creating a great user experience."
-skills: "UI Designer / Front-End Developer"
+url: https://nafoster.github.io
+description: "I'm a Web Developer who loves solving unique user problems. With my background in branding, design, and programming, I understand all aspects of creating a great user experience."
+skills: "Web Developer"
 meta_author: Foster Nicole
 
 # Google webmaster tools
@@ -43,8 +43,6 @@ social:
     url: http://github.com/nafoster
   - title: linkedin
     url: https://www.linkedin.com/in/nicoleafoster
-  - title: twitter
-    url: http://twitter.com/nicolefdesigns
 
 # Postal address (add as many lines as necessary)
 address:
