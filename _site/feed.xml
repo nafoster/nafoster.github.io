@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Foster</title>
-    <description>I&#39;m a Web Developer who loves solving unique user problems. With my background in branding, design, and programming, I understand all aspects of creating a great user experience.</description>
+    <description>I&#39;m a web technology specialist with experience in all avenues of web technologies including web design, front-end development, back-end development, web accessibility, digital marketing, and more. Coming from a web development background, I have integrated the skills needed to create full web experiences.</description>
     <link>https://nafoster.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Oct 2018 16:38:14 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Oct 2018 16:38:14 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Dec 2019 08:55:42 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Dec 2019 08:55:42 -0500</lastBuildDate>
     <generator>Jekyll v3.1.0</generator>
     
       <item>
